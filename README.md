@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basicmaterials
 - 👀 I’m interested in ... websites
 - 🌱 I’m currently learning ... always currently learning
-- 💞️ I’m looking to collaborate on ... a tranny
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...dont
 
 <!---
